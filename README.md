@@ -1,6 +1,6 @@
 # C++ Basics Practice
 
-This repository contains my first programs while learning C++.
+This repository contains my first programs while learning C++ for my first 15 day beginner course.
 
 ## Files
 
